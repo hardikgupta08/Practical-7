@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+    <order_id>55996</order_id>
+    <description>ORDER DESCRIPTION...</description>
+    <request_date>05-04-2023</request_date>
+
+    <item>
+        <book>
+            <book_id>1</book_id>
+            <book_name>And Then There Were None</book_name>
+            <genre>Mystery</genre>
+            <author>
+                <bio>Dame Agatha Mary Clarissa Christie, Lady Mallowan, DBE was an English writer known for her 66 detective novels and 14 short story collections.</bio>
+                <first_name>Agatha</first_name>
+                <last_name>Christie</last_name>
+            </author>
+        </book>
+        <quantity>1</quantity>
+        <price>Rs. 300</price>
+    </item>
+
+    <item>
+        <book>
+            <book_id>2</book_id>
+            <book_name>The Big Sleep</book_name>
+            <genre>Mystery</genre>
+            <author>
+                <bio>Raymond Thornton Chandler was an American-British novelist and screenwriter. </bio>
+                <first_name>Raymond</first_name>
+                <last_name>Chandler</last_name>
+            </author>
+        </book>
+        <quantity>1</quantity>
+        <price>Rs. 280</price>
+    </item>
+
+    <item>
+        <book>
+            <book_id>3</book_id>
+            <book_name>The Postman Always Rings Twice</book_name>
+            <genre>Mystery</genre>
+            <author>
+                <bio>James Mallahan Cain was an American novelist, journalist and screenwriter. He is widely regarded as a progenitor of the hardboiled school of American crime fiction.</bio>
+                <first_name>James</first_name>
+                <last_name>Cain</last_name>
+            </author>
+        </book>
+        <quantity>1</quantity>
+        <price>Rs. 330</price>
+    </item>
+
+    <item>
+        <book>
+            <book_id>4</book_id>
+            <book_name>The Da Vinci Code</book_name>
+            <genre>Mystery</genre>
+            <author>
+                <bio>Daniel Gerhard Brown is an American author best known for his thriller novels, including the Robert Langdon novels Angels and Demons (2000), The Da Vinci Code (2003), The Lost Symbol (2009), Inferno (2013), and Origin (2017).</bio>
+                <first_name>Dan</first_name>
+                <last_name>Brown</last_name>
+            </author>
+        </book>
+        <quantity>3</quantity>
+        <price>Rs. 400</price>
+    </item>
+
+    <item>
+        <book>
+            <book_id>5</book_id>
+            <book_name>Murder on th Orient Express</book_name>
+            <genre>Mystery</genre>
+            <author>
+                <bio>Dame Agatha Mary Clarissa Christie, Lady Mallowan, DBE was an English writer known for her 66 detective novels and 14 short story collections.</bio>
+                <first_name>Agatha</first_name>
+                <last_name>Christie</last_name>
+            </author>
+        </book>
+        <quantity>1</quantity>
+        <price>Rs. 350</price>
+    </item>
+
+    <item>
+        <book>
+            <book_id>6</book_id>
+            <book_name>The Complete Sherlock Holmes</book_name>
+            <genre>Mystery</genre>
+            <author>
+                <bio>Sir Arthur Ignatius Conan Doyle was a British writer and physician. </bio>
+                <first_name>Arthur</first_name>
+                <last_name>Doyle</last_name>
+            </author>
+        </book>
+        <quantity>1</quantity>
+        <price>Rs. 220</price>
+    </item>
+
+    <item>
+        <book>
+            <book_id>7</book_id>
+            <book_name>The Murders At Fleat House</book_name>
+            <genre>Crime</genre>
+            <author>
+                <bio>Lucinda Kate Riley was a Northern Irish author of popular historical fiction, originally an actress.</bio>
+                <first_name>Lucinda</first_name>
+                <last_name>Riley</last_name>
+            </author>
+        </book>
+        <quantity>1</quantity>
+        <price>Rs. 400</price>
+    </item>
+
+    <item>
+        <book>
+            <book_id>8</book_id>
+            <book_name>The 6:20 Man</book_name>
+            <genre>Crime</genre>
+            <author>
+                <bio>David Baldacci is an American novelist. An attorney by education, Baldacci writes mainly suspense novels and legal thrillers.</bio>
+                <first_name>David</first_name>
+                <last_name>Baldacci</last_name>
+            </author>
+        </book>
+        <quantity>1</quantity>
+        <price>Rs. 400</price>
+    </item>
+
+    <item>
+        <book>
+            <book_id>9</book_id>
+            <book_name>Dirt Town</book_name>
+            <genre>Crime</genre>
+            <author>
+                <bio>Detective Sergeant Sarah Michaels begins her investigation of the disappearance of twelve-year-old Esther Bianchi from her home in the small rural Australian town of Durton.</bio>
+                <first_name>Hayley</first_name>
+                <last_name>Scrivenor</last_name>
+            </author>
+        </book>
+        <quantity>1</quantity>
+        <price>Rs. 300</price>
+    </item>
+
+    <item>
+        <book>
+            <book_id>10</book_id>
+            <book_name>Die Twice</book_name>
+            <genre>Crime</genre>
+            <author>
+                <bio>Andrew Grant (born 1968 in Birmingham, England) is a British writer, and the younger brother of bestselling thriller writer Lee Child.</bio>
+                <first_name>Andrew</first_name>
+                <last_name>Grant</last_name>
+            </author>
+        </book>
+        <quantity>1</quantity>
+        <price>Rs. 250</price>
+    </item>
+
+</order>
